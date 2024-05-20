@@ -1,0 +1,9 @@
+# Ignore Visual Studio temporary files, build results, and include directory .vs/
+.vs/
+*.vsidx
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
